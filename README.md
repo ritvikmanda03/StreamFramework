@@ -1,5 +1,3 @@
-# MP4-Group37
-
 ## Steps to Run
 
 1. Copy paste stream.go to all 10 VMs
